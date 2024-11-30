@@ -1,13 +1,25 @@
 [
     {
-        "run": "14141414-9",
-        "nombre": "Alumno",
-        "apellido": "POO",
-        "direccion": "Inacap",
-        "fono": 14141414,
-        "correo": "correo@correo.cl",
-        "montoCredito": 505050,
-        "deuda": 606060,
-        "tipo": 3
+      "run": "14141414-9",
+      "nombre": "Alumno",
+      "apellido": "POO",
+      "direccion": "Inacap",
+      "fono": 14141414,
+      "correo":"correo@correo.cl",
+      "montoCredito": 505050,
+      "deuda":606060,
+      "tipo": 2
+    }
+    
+    {
+      "run": "15894150-3",
+      "nombre": "Alumno1",
+      "apellido": "POO2",
+      "direccion": "Inacap",
+      "fono": 123456789,
+      "correo":"correo@correo.cl",
+      "montoCredito": 20000,
+      "deuda":100,
+      "tipo": 1
     }
 ]
