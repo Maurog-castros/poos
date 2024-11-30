@@ -1,0 +1,13 @@
+[
+    {
+        "run": "14141414-9",
+        "nombre": "Alumno",
+        "apellido": "POO",
+        "direccion": "Inacap",
+        "fono": 14141414,
+        "correo": "correo@correo.cl",
+        "montoCredito": 505050,
+        "deuda": 606060,
+        "tipo": 3
+    }
+]
